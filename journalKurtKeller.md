@@ -1,25 +1,7 @@
-### 2020-06-30 {-}
+# Ya no haremos el journal
 
-- Preparé documento de reunión de hoy
-- Perparé la estructura de folders standard para todos
-    - La estructura tendrá diferentes folders con diferentes propósitos. Un folder llamado **docs** que servirá para el trabajo escrito completo. Un  folder llamado **CAD** para todos los archivos de diseño que se necesiten. También habrá un folder de **recursos** donde estarán los datasheets y documentos que son necesarios.
+Lo que haremos será que en la parte de resultados de su trabajo de graduación empezaremos a popular el documento. Lo podemos trabajar como capítulos y poco a poco los van llenando.
 
-La reunión se llevará como una serie de puntos organizados:
+Para escribir los capítulos realmente no hay una restricción: Pueden ser capítulos por prototipos o por partes del proyecto. O incluso ambos: por partes del proyecto y sub-capítulos por prototipo. Incluyan sus resultados y su discusión todo junto. En ocasiones hace más sentido hacerlo de esa forma que tener una sección de resultados y luego otra de discusión.
 
-1. Bienvenida
-2. Hablar acerca de GitHub
-    3. Mencionar la estructura de folders
-4. Hablar acerca de los diseños 3d
-5. Hablar acerca de las compras
-
-—
-
-### 2020-06-31 {-}
-
-- Investigué acerca de X, Y, Z
-
-
-—
-
-
-### 2020-07-01 {-}
+Cualquier documento de texto que hagan sí les recuerdo que le pongan extensión .md para poder hacer algún tipo de formato con Markdown. Por si no conocen mucho Markdown aquí les dejo un link: https://www.markdownguide.org. El editor de texto que yo uso para Markdown se llama [Zettlr](https://www.zettlr.com). No es obligatorio, pero me pareció muy interesante.
